@@ -1,0 +1,40 @@
+# black
+export color0="#4A3637"
+export color8="#4A3637"
+
+# red
+export color1="#d17b49"
+export color9="#d17b49"
+
+# green
+export color2="#7b8748"
+export color10="#7b8748"
+
+# yellow 
+export color3="#af865a"
+export color11="#af865a"
+
+# blue 
+export color4="#545C5C"
+export color12="#545C5C"
+
+# magenta
+export color5="#775759"
+export color13="#775759"
+
+# cyan 
+export color6="#6d715e"
+export color14="#6d715e"
+
+# white
+export color7="#c0b18b"
+export color15="#c0b18b"
+
+# background color for wallpaper
+export bgWpColor='#333333'
+
+# background color for terminal and dzen2
+export bgColor='#1f1f1f'
+
+# foreground color 
+export fgColor='#c0b18b'

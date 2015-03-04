@@ -1,0 +1,59 @@
+Xcursor.theme               : X-BLACK_2
+
+URxvt.font                  : xft:Terminus:size=10,xft:Monospace
+URxvt.perl-ext-common       : default,matcher,clipboard,url-select,keyboard-select
+URxvt.matcher.button        : 1
+URxvt.url-launcher          : firefox 
+URxvt.url-select.underline  : true
+URxvt.keysym.M-u            : perl:url-select:select_next
+URxvt.keysym.M-Escape       : perl:keyboard-select:activate
+URxvt.keysym.M-s            : perl:keyboard-select:search
+URxvt.keysym.M-c            : perl:clipboard:copy
+URxvt.keysym.M-v            : perl:clipboard:paste
+URxvt.keysym.M-C-v          : perl:clipboard:paste_escaped
+URxvt*scrollBar             : false
+URxvt*cursorBlink           : true
+URxvt*cursorUnderline       : true
+URxvt.internalBorder        : 5
+URxvt*saveLines             : 12000
+URxvt*depth                 : 32
+URxvt*buffered              : true
+URxvt*shading               : 30
+URxvt*fading                : 10%
+
+*background: #1f1f1f
+*foreground: #c0b18b
+
+!black
+*color0:#4A3637
+*color8:#4A3637
+
+!red
+*color1:#d17b49
+*color9:#d17b49
+
+!green
+*color2:#7b8748
+*color10:#7b8748
+
+!yellow
+*color3:#af865a
+*color11:#af865a
+
+!blue
+*color4:#535C5C
+*color12:#535C5C
+
+!magenta
+*color5:#775759
+*color13:#775759
+
+!cyan
+*color6:#6d715e
+*color14:#6d715e
+
+!white
+*color7:#c0b18b
+*color15:#c0b18b
+
+
